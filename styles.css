@@ -18,7 +18,7 @@ body.dark-theme {
 }
 
 body.light-theme {
-    background: linear-gradient(to left, #0033cc, #00bfae);
+    background: linear-gradient(to left, #1A237E, #FFD700);
     color: #ffffff;
 }
 
@@ -28,7 +28,7 @@ body.dark-theme header{
 }
 
 body.light-theme header{
-    background: linear-gradient(to right , aquamarine , blue);
+    background: linear-gradient(to left, #1A237E, #FFD700);
     color : #ffffff;
 }
 
@@ -145,7 +145,7 @@ body.dark-theme .hero{
 }
 body.light-theme .hero{
     color: white;
-    background: linear-gradient(to right , aquamarine , blue);
+    background: linear-gradient(to left, #1A237E, #FFD700);
 }
 .hero {
     text-align: center;
@@ -167,7 +167,7 @@ body.dark-theme .hero .cta{
     color: #000;
 }
 body.light-theme .hero .cta{
-    background: linear-gradient(to right ,lightblue, blue );
+    background: linear-gradient(to left, #1A237E, #FFD700);
     color: white ;
 }
 .hero .cta {
@@ -329,7 +329,7 @@ body.dark-theme footer{
     color: #fff;
 }
 body.light-theme footer{
-    background: linear-gradient(to right , aquamarine , blue);
+    background: linear-gradient(to left, #1A237E, #FFD700);
     color: #ffffff;
 }
 footer {
@@ -385,7 +385,7 @@ body.dark-theme .abouts-container {
     background-color: #000;
 }
 body.light-theme .abouts-container {
-    background: linear-gradient(to left, #0033cc, #00bfae);
+    background: linear-gradient(to left, #1A237E, #FFD700);
 }
 .abouts-container {
     display: flex;
@@ -470,7 +470,7 @@ body.dark-theme .hero1{
     background: rgba(0, 0, 0, 0.8);
 }
 body.light-theme .hero1{
-    background: linear-gradient(to left, #0033cc, #00bfae);
+    background: linear-gradient(to left, #1A237E, #FFD700);
 }
 .hero1 {
     text-align: center;
@@ -771,7 +771,7 @@ body.dark-theme #blog{
 }
 body.light-theme #blog {
     padding: 50px 20px;
-    background:  linear-gradient(to left, #0033cc, #00bfae);
+    background: linear-gradient(to left, #1A237E, #FFD700);
 }
 
 .blog-posts {
